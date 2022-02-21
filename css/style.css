@@ -375,8 +375,8 @@ button{
     background: linear-gradient(90deg, #ECE9E6 0%, #FFFFFF 100%);
     padding-top: 30px;
     padding-bottom: 30px;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
 }
 .mailing__form{
     display: flex;
