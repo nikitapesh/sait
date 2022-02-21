@@ -81,8 +81,9 @@ button{
     cursor: pointer;
 }
 .hero{
-    background: linear-gradient(90deg, #ECE9E6 0%, #FFFFFF 100%);
-    background-size: 100%;
+    background-image: url('../image/hero-bg-img.png');
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .hero__header{
     font-size: 40px;
