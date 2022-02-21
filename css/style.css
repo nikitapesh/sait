@@ -470,7 +470,7 @@ button{
     max-width: 100vw;
 }
 .mailing__form-div-adaptiv{
-    display: none;
+    display: none !important;
 }
 
 
